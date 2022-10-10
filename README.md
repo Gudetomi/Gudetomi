@@ -1,4 +1,4 @@
-## Oiii eu sou Gustavo Henrique Alves Detomi, estudante de Ciência da Computação e Desenvolvedor Web!
+## Oiii eu sou o Gustavo Henrique Alves Detomi!
 <div align="center">
   <a href="https://github.com/gudetomi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gudetomi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
