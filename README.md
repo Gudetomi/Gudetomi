@@ -1,7 +1,3 @@
-# Elegant - Full Stack Developer
-
----
-
 <div align="center">
 
   <br>
